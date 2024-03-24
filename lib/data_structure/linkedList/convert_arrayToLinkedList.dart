@@ -1,5 +1,5 @@
 class Node {
-  var data;
+  int data;
   Node? next;
 
   Node(this.data);
